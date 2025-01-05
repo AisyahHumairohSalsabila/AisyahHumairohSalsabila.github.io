@@ -1,0 +1,117 @@
+========== HEADER ==========
+.nav__logo
+Travel
+
+.nav__link
+Home - About - Popular - Explore
+
+
+========== HOME ==========
+.home__subtitle
+Welcome To Little Garden
+
+.home__title
+Learn More <br>
+About Garden 
+
+.home__description
+Where Blooms of the World Unfold, A Tapestry of Colors in Petals Bold.
+
+.button
+Start Your Journey
+
+.home__card-title
+Daisy Flower
+Lily Flower
+Tulip Flower
+SunFlower
+
+
+========== ABOUT  ==========
+.section__title
+About Little Garden
+
+.about__description
+Little Garden is a vibrant flower sanctuary that showcases a stunning array of blooming flowers. From delicate roses to bold sunflowers and intricate lavender, the garden creates a living canvas of natural beauty, inviting visitors to immerse themselves in its colorful and harmonious landscape.
+
+
+
+.button
+Explore Garden
+
+
+========== POPULAR ==========
+.section__title
+Experience the Wonders <br>
+Of The World
+
+.popular__title .popular__location
+Green House
+Botanical Garden
+
+Waterfall
+Waterfall
+
+Cafe 
+Floral Terrace
+
+
+========== EXPLORE ==========
+.section__title
+Explore Our Flower
+
+
+========== JOIN ==========
+.section__title
+Our Contact
+
+.join__description
+Email : littlegarden@gmail.com
+Phone : 021-82638982
+Address : Jl. H. M. Tohir No.6B, RT.004/RW.01, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424, Indonesia
+
+
+.join__input placeholder
+Enter your email
+
+.join__button
+Subscribe To Get More Information!
+
+
+========== FOOTER ==========
+.footer__logo
+Garden
+
+.footer__description
+Explore Garden with us and explore <br>
+the world without limits.
+
+.footer__title .footer__link
+About
+ About Us
+ Features
+ News & Blog
+
+Company
+ FAQs
+ History
+ Testimonials
+
+Contact
+ Call Center
+ Support Center
+ Contact Us
+
+Support
+ Privacy Policy
+ Terms & Services
+ Payments
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+https://www.youtube.com/
+
+.footer__copy
+&#169; Copyright Little Garden . All rights reserved
